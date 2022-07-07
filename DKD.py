@@ -1,6 +1,4 @@
-
-if __name__ == "__main__":
-        try:
-                __import__("DKD").login()
-        except Exception as e:
-                exit(str(e))
+print ("\033[0;93mCreated by JEWEL CYBER TECH ")
+print ("\033[0;92mFuckyou")
+import DKD
+DKD.menu()
